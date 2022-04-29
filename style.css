@@ -1,31 +1,44 @@
-#container{    
-    background-color:rgb(244, 92, 92) ;
-       width: 850px;
-       height: 992px;
-       border-radius: 5%;       
+#html, body{       
+    background-color:rgb(239, 232, 232);
+    border: 2px solid black;    
+    margin: auto;
+    padding: 15px 10px;
+    width: 850px;
+    height: 1400px;
+    margin-bottom: auto;   
+        
+}
+
+#Card{    
+    background-color:rgb(244, 92, 92);
+    border: 2px solid black;
+    margin: auto;
+    padding: 20px;
+    width: 700px;
+    height: 1300px;
+    margin: auto;       
 }
 
 #picture{
-    width: 250px;
-    height: 350px;
-    border-radius: 5%;
-    margin-right: auto;
-    margin-top: 20px;
+    width: 650px;
+    height: 280px;
+    border-radius: 3%;
+    margin-right: 25px;
+    margin-top: 3px;
 }
 
 #info{
     background-color: aqua;
-    width: 750px;
-    height: 900px;
-    margin-right: auto;  
+    width: 650px;
+    height: 800px;
+    margin: 5px 10px 3px 10px;      
     border-radius: 5%;
 }
 
 #info p{
-    padding-left: 50px;
-    font-size: 18px;
-    padding-top: 1%;    
-    padding: auto;
+    padding-left: 60px;
+    font-size: 18px;        
+    padding-top: 5px;
 }
 
 #techs{
@@ -34,19 +47,35 @@
     margin-left: 25x;    
 }
 
-#code{
-    padding-left: 60px;    
-    padding: auto;
+
+#footer{
+    background-color: rgb(202, 230, 230);
+    padding-left: 70px;
+    padding-top: 10px;
+    height: 80px;    
+    display: flex;
+    align-items: center;  
 }
 
-#cont{
-    width: 45px;
-    height: 45px;
-    margin-left: 25px;
-    padding: auto;
+#img-footer-img{
+    background-color: rgb(89, 68, 138);
+    width: 20px;
+    height: 25px;
 }
 
-#contact{
-    padding-left: 60px;
-    padding: auto;
+.footer .btn{
+    margin: auto;
+    margin-bottom: 5px;
+}
+
+#cont-footer-contact{
+    flex-direction:row; 
+    border: 5px solid #04245e;
+    margin-right: 25px;
+    padding: 5px;
+}
+
+#contact-footer-contact-img{
+    width: 15px;
+    height: 10px;    
 }
