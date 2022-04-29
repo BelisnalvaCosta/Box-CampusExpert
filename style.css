@@ -1,28 +1,30 @@
-#card{
-    background-color:rgb(226, 43, 43) ;
-       width: 400px;
-       height: 590px;
-       border-radius: 5%;
-       margin-left: 400px;
+#container{    
+    background-color:rgb(244, 92, 92) ;
+       width: 850px;
+       height: 992px;
+       border-radius: 5%;       
 }
 
 #picture{
-    width: 200px;
-    height: 250px;
+    width: 250px;
+    height: 350px;
     border-radius: 5%;
-    margin-left: 90px;
+    margin-right: auto;
     margin-top: 20px;
 }
 
 #info{
     background-color: aqua;
-    margin: 20px;
+    width: 750px;
+    height: 900px;
+    margin-right: auto;  
     border-radius: 5%;
 }
 
 #info p{
     padding-left: 50px;
-    padding-top: 5%;    
+    font-size: 18px;
+    padding-top: 1%;    
     padding: auto;
 }
 
@@ -33,14 +35,14 @@
 }
 
 #code{
-    padding-left: 60px;
+    padding-left: 60px;    
     padding: auto;
 }
 
 #cont{
     width: 45px;
     height: 45px;
-    margin-left: 25x;
+    margin-left: 25px;
     padding: auto;
 }
 
