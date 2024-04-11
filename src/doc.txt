@@ -1,0 +1,15 @@
+file:///C:/Users/notebook.local/Downloads/docs_DIOCampusExpert7.web.htm
+
+Este projeto foi feito na IDE Visual Studio Code.
+Tem como objetivo de informar a minha tragetória na DIO Campus Expert e divulgar os Bootcamps gratuito da Dio.me.
+
+Resumo desta jornada no Campus Expert
+ 
+Foram 5 semanas de muito aprendizado e também de algumas conquistas.
+No Campus Expert paricipei de desafios ao qual me fez subir mais um degrau no conhecimento na área da Tecnologia da Informação fazendo projetos em Front-end ao qual sempre tive uma dificuldade em fazê-los, mas fiz alguns projeto e comitei para o Github que fiz aqui nesta jornada.
+Também aprendi com as mentorias com Experts: Felipe Aguiar, Giulia, Elidiana, Tashi Tores, Mariane e Vitor Haruo.
+Só tenho que agradecer a oportunidade de poder estar participando desta grande comunidade que é a DIO.me junto com o Victor Haruo no Campus Expert.
+#Gratidão sempre!
+
+link do meu projeto em Html e CSS e JavaScript: file:///C:/Users/notebook.local/Downloads/docs_DIOCampusExpert7.web.htm
+
