@@ -61,7 +61,11 @@
     margin-right: 10px;
     margin-bottom: 20px;
 }
-
+    /*
+    padding: 20px;
+    text-align: center;
+}
+*/
 #contact {
     border-radius: 30px;
     cursor: pointer;
