@@ -1,5 +1,5 @@
 # Box-CampusExpert7
-Card feito no Visual Estudio Code, linguagem html, JS e css. [![Card informativo](file:///C:/Users/notebook.local/Project_BoxCampus/BoxCampus/src/docs_DIOCampusExpert7.web.htm)
+![Card informativo](file:///C:/Users/notebook.local/Project_BoxCampus/BoxCampus/src/Resumo%20CampusExpert7.pdf)
 Pojeto feito na IDE Visual Studio Code em Html, CSS e Javascript[^1].
 
 <h1>
@@ -103,4 +103,4 @@ Projeto informativo da jornada no Campus Expert e levar conhecimentos de Tecnolo
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/BelisnalvaCosta/">Bella</a>.</div>
 
-[^1]: Este arquivo em Markdow é de autoria da Expert Elidiana (dio) e fiz este projeto também orientação do Expert Venilton FalvoJr.
+[^1]: Este arquivo em Markdow é de autoria da Expert Elidiana (dio) e fiz este projeto também com a orientação do Expert Venilton FalvoJr.
