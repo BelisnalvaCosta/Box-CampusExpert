@@ -1,6 +1,5 @@
 # Box-CampusExpert7
-<img width="80px" align="center" src="![Exp1](https://github.com/BelisnalvaCosta/Box-CampusExpert/assets/72033269/de42de80-1193-4f27-8022-9018161bd5d5)
-"/>
+![docx](https://file:///C:/Users/notebook.local/Project_BoxCampus/BoxCampus/index.html)
 ![Card informativo](http://localhost:63342/BoxCampus/index.html?_ijt=uc42aq6pdac16vfkansibugdvb&_ij_reload=RELOAD_ON_SAVE)
 
 Pojeto feito na IDE Visual Studio Code em Html, CSS e Javascript[^1].
