@@ -1,6 +1,4 @@
 # Box-CampusExpert7
-![docx](https://file:///C:/Users/notebook.local/Project_BoxCampus/BoxCampus/index.html)
-![Card informativo](http://localhost:63342/BoxCampus/index.html?_ijt=uc42aq6pdac16vfkansibugdvb&_ij_reload=RELOAD_ON_SAVE)
 
 Pojeto feito na IDE Visual Studio Code em Html, CSS e Javascript[^1].
 
